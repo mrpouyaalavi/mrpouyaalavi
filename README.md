@@ -35,8 +35,8 @@
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
 ║  🎓  Final-Year BIT Student — Macquarie University (Nov 2026)        ║
-║  🚀  Building Syllabus Sync — MQ's next campus productivity platform ║
-║  🔐  Implementing MFA, WebAuthn, RLS, and GDPR-compliant systems     ║
+║  🚀  Building Syllabus Sync — a campus productivity platform for MQ ║
+║  🔐  Implementing MFA, WebAuthn, RLS, and privacy-conscious systems    ║
 ║  🌍  19-language internationalisation + RTL + WCAG 2.1 AA            ║
 ║  🧪  Test-Driven Development with Vitest + Playwright (E2E)          ║
 ║  ⚡  CI/CD via GitHub Actions · Deployed on Vercel Edge              ║
@@ -163,7 +163,7 @@
 <tr>
 <td valign="top" width="100%">
 
-#### 🚀 Syllabus Sync — Enterprise Campus Management Platform
+#### 🚀 Syllabus Sync — Full-Stack Student Productivity Platform
 
 > **🗓 Intelligent Academic Calendar**
 > Automated workload and stress analysis with smart deadline tracking and study planning tools
@@ -171,7 +171,7 @@
 > **🗺 Dual-Engine Campus Navigation**
 > Leaflet + Google Maps with real-time GPS tracking and Kalman filtering for indoor/outdoor wayfinding
 
-> **🔐 Enterprise-Grade Security**
+> **🔐 Security-Focused Architecture**
 > MFA (TOTP + WebAuthn/Passkey), distributed rate limiting (Upstash Redis), CSRF protection, Row Level Security, GDPR-compliant data handling
 
 > **🌍 Full Internationalisation**
@@ -180,8 +180,8 @@
 > **⚡ Production DevOps**
 > CI/CD via GitHub Actions, Vercel Edge deployment, Vitest + Playwright test coverage
 
-> **🏫 Official Recognition**
-> Currently being considered for official adoption at Macquarie University
+> **🏫 University-Focused Solution**
+> Designed to support student productivity and campus operations at Macquarie University
 
 🔗 [Live Demo](https://syllabus-sync-ashy.vercel.app) &nbsp;·&nbsp; 📁 [Repository](https://github.com/mrpouyaalavi/syllabus-sync)
 
@@ -210,7 +210,6 @@
 ```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6366f1?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=0f172a)](https://www.linkedin.com/in/pouya-alavi/)
-[![Portfolio](https://img.shields.io/badge/Syllabus_Sync-Live_Demo-22c55e?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=0f172a)](https://syllabus-sync-ashy.vercel.app)
 [![Email](https://img.shields.io/badge/Email-Contact-f59e0b?style=for-the-badge&logo=gmail&logoColor=09090b&labelColor=0f172a)](mailto:pouyaalavi1378@gmail.com)
 
 </div>
