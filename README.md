@@ -35,11 +35,11 @@
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
 ║  🎓  Final-Year BIT Student — Macquarie University (Nov 2026)        ║
-║  🚀  Building Syllabus Sync — a campus productivity platform for MQ ║
-║  🔐  Implementing MFA, WebAuthn, RLS, and privacy-conscious systems    ║
+║  🚀  Building Syllabus Sync — a campus productivity platform for MQ  ║
+║  🔐  Implementing MFA, WebAuthn, RLS, and privacy-conscious systems  ║
 ║  🌍  19-language internationalisation + RTL + WCAG 2.1 AA            ║
 ║  🧪  Test-Driven Development with Vitest + Playwright (E2E)          ║
-║  ⚡  CI/CD via GitHub Actions · Deployed on Vercel Edge              ║
+║  ⚡  CI/CD via GitHub Actions · Deployed on Vercel Edge               ║
 ║  🤝  Open to Graduate · Junior · Internship roles in Sydney / Remote ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
