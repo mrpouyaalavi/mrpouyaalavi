@@ -27,4 +27,3 @@ A full-stack student productivity platform for academic planning, deadline track
 ## Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/pouya-alavi/)
 - [Email](mailto:pouyaalavi1378@yahoo.com)
-- [X](https://x.com/po_uy_aa)
