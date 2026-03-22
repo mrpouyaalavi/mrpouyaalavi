@@ -25,6 +25,6 @@ A full-stack student productivity platform designed to support academic planning
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
 ## Connect With Me
-- [LinkedIn]([https://www.linkedin.com/in/pouya-alavi/])
+- [LinkedIn](https://www.linkedin.com/in/pouya-alavi/)
 - [Email](mailto:pouyaalavi1378@gmail.com)
 - [X](https://x.com/po_uy_aa)
