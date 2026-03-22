@@ -10,7 +10,7 @@ Final-year Information Technology student at Macquarie University, specialising 
 
 ## Featured Project
 ### Syllabus Sync
-A full-stack student productivity platform designed to support academic planning, deadlines, and campus navigation.
+A full-stack student productivity platform for academic planning, deadline tracking, and campus navigation, built with Next.js, TypeScript, and Supabase.
 
 - 🔗 [Live Demo](https://syllabus-sync-ashy.vercel.app)
 - 📁 [Repository](https://github.com/mrpouyaalavi/syllabus-sync)
