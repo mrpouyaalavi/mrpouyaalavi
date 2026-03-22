@@ -26,5 +26,5 @@ A full-stack student productivity platform designed to support academic planning
 
 ## Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/pouya-alavi/)
-- [Email](mailto:pouyaalavi1378@gmail.com)
+- [Email](mailto:pouyaalavi1378@yahoo.com)
 - [X](https://x.com/po_uy_aa)
