@@ -32,14 +32,14 @@
 
 ```text
 ╔══════════════════════════════════════════════════════════════════════╗
-║  🎓  Final-Year BIT Student — Macquarie University (Nov 2026)      ║
-║  🚀  Building full-stack web applications and applied AI projects   ║
-║  🧩  Main project: Syllabus Sync — student productivity platform    ║
-║  🤖  ML project: CIFAR-10 image classification with Streamlit demo  ║
-║  🔐  Experience with MFA, RLS, authentication, and secure systems   ║
-║  🌍  Multilingual UX, RTL support, accessibility, and testing       ║
-║  🧪  Working with Vitest, Playwright, CI/CD, and deployment         ║
-║  🤝  Open to Graduate · Junior · Internship developer roles         ║
+║  🎓  Final-Year BIT Student — Macquarie University (Nov 2026)        ║
+║  🚀  Building full-stack web applications and applied AI projects    ║
+║  🧩  Main project: Syllabus Sync — student productivity platform     ║
+║  🤖  ML project: CIFAR-10 image classification with Streamlit demo   ║
+║  🔐  Experience with MFA, RLS, authentication, and secure systems    ║
+║  🌍  Multilingual UX, RTL support, accessibility, and testing        ║
+║  🧪  Working with Vitest, Playwright, CI/CD, and deployment          ║
+║  🤝  Open to Graduate · Junior · Internship developer roles          ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
