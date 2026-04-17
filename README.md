@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6366f1?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/pouya-alavi/)
 [![Portfolio](https://img.shields.io/badge/Syllabus_Sync-22c55e?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://syllabus-sync-mq.vercel.app)
-[![CIFAR-10 Demo](https://img.shields.io/badge/CIFAR--10_Demo-f59e0b?style=for-the-badge&logo=streamlit&logoColor=ffffff)](https://cifar10.pouyaalavi.dev)
+[![CIFAR-10 Demo](https://img.shields.io/badge/CIFAR--10_Demo-f59e0b?style=for-the-badge&logo=huggingface&logoColor=ffffff)](https://cifar10.pouyaalavi.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-0f1115?style=for-the-badge&logo=github&logoColor=6366f1)](https://github.com/mrpouyaalavi)
 [![Email](https://img.shields.io/badge/Email-0ea5e9?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:pouya@pouyaalavi.dev)
 [![Profile Views](https://komarev.com/ghpvc/?username=mrpouyaalavi&color=6366f1&style=for-the-badge&label=VISITORS)](https://github.com/mrpouyaalavi)
@@ -35,7 +35,7 @@
 ║  🎓  Final-Year BIT Student — Macquarie University (Nov 2026)        ║
 ║  🚀  Building full-stack web applications and applied AI projects    ║
 ║  🧩  Main project: Syllabus Sync — student productivity platform     ║
-║  🤖  ML project: CIFAR-10 image classification with Streamlit demo   ║
+║  🤖  ML project: CIFAR-10 image classification with Gradio & HF      ║
 ║  🔐  Experience with MFA, RLS, authentication, and secure systems    ║
 ║  🌍  Multilingual UX, RTL support, accessibility, and testing        ║
 ║  🧪  Working with Vitest, Playwright, CI/CD, and deployment          ║
@@ -84,6 +84,7 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-0f172a?style=for-the-badge&logo=pytorch&logoColor=f97316)](https://pytorch.org)
 <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/scikit--learn-0f172a?style=for-the-badge&logo=scikitlearn&logoColor=f59e0b" alt="scikit-learn"/></a>
 [![Jupyter](https://img.shields.io/badge/Jupyter-0f172a?style=for-the-badge&logo=jupyter&logoColor=f59e0b)](https://jupyter.org)
+[![Gradio](https://img.shields.io/badge/Gradio-0f172a?style=for-the-badge&logo=huggingface&logoColor=f59e0b)](https://www.gradio.app)
 <a href="https://arxiv.org/abs/1610.02391"><img src="https://img.shields.io/badge/Grad--CAM-0f172a?style=for-the-badge&logoColor=ffffff" alt="Grad-CAM"/></a>
 
 **[ TESTING & DEVOPS ]**
@@ -165,7 +166,7 @@
 - Academic planning, deadlines, and campus navigation in one place
 - Multilingual support with RTL layout and mobile-first design
 - Secure authentication with MFA, row-level security, and rate limiting
-- Accessibility and internationalisation improvements
+- Accessibility and internationalisation improvements aligned with WCAG principles
 - CI/CD workflows with GitHub Actions and deployment on Vercel
 
 🔗 [Live Demo](https://syllabus-sync-mq.vercel.app) &nbsp;·&nbsp; 📁 [Repository](https://github.com/mrpouyaalavi/syllabus-sync)
@@ -180,10 +181,11 @@
 
 > **End-to-end image classification project with training, interpretability, and deployment**
 
-- Compared custom CNN and transfer learning approaches on CIFAR-10
-- Built with Python, PyTorch, Jupyter, and Streamlit
-- Added Grad-CAM visualisation, CLI inference tools, and deployment workflow
-- Achieved 85.53% test accuracy with MobileNetV2 under controlled conditions
+- Evaluated five deep learning architectures on CIFAR-10 under controlled conditions
+- Built with Python, PyTorch, Jupyter, Gradio, and deployed on Hugging Face Spaces
+- Applied data augmentation, cosine annealing, and progressive unfreezing for improved generalisation
+- Added Grad-CAM visualisation, INT8 quantisation, CLI inference tools, and a Gradio interface
+- MobileNetV2 achieved 85.53% test accuracy using transfer learning
 
 🔗 [Live Demo](https://cifar10.pouyaalavi.dev) &nbsp;·&nbsp; 📁 [Repository](https://github.com/mrpouyaalavi/CIFAR-10-Image-Classification)
 
