@@ -185,7 +185,7 @@
 - Built with Python, PyTorch, Jupyter, Gradio, and deployed on Hugging Face Spaces
 - Applied data augmentation, cosine annealing, and progressive unfreezing for improved generalisation
 - Added Grad-CAM visualisation, INT8 quantisation, CLI inference tools, and a Gradio interface
-- MobileNetV2 achieved 85.53% test accuracy using transfer learning
+- MobileNetV2 achieved 86.91% test accuracy, outperforming the custom CNN and ResNet-18 baseline
 
 🔗 [Live Demo](https://cifar10.pouyaalavi.dev) &nbsp;·&nbsp; 📁 [Repository](https://github.com/mrpouyaalavi/CIFAR-10-Image-Classification)
 
