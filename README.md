@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=700&color=6366F1&center=true&vCenter=true&width=860&lines=Full-Stack+Developer+%7C+Next.js+%C2%B7+React+%C2%B7+TypeScript;Building+Fast%2C+Accessible%2C+Secure+Web+Apps;AI+%26+Web+Development+%7C+Macquarie+University;Open+to+Graduate+%26+Junior+Developer+Opportunities)](https://readme-typing-svg.demolab.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=700&color=6366F1&center=true&vCenter=true&width=860&lines=Software+Engineer+%7C+Next.js+%C2%B7+React+%C2%B7+TypeScript;Full-Stack+Web+Development+%7C+Applied+AI%2FML;IT+%26+Software+Engineering+%7C+Macquarie+University;Open+to+Graduate+%26+Early-Career+Software+Roles)](https://readme-typing-svg.demolab.com)
 
 </div>
 
@@ -32,14 +32,14 @@
 
 ```text
 ╔══════════════════════════════════════════════════════════════════════╗
-║  🎓  Final-Year BIT Student — Macquarie University (Nov 2026)        ║
-║  🚀  Building full-stack web applications and applied AI projects    ║
+║  🎓  Final-Year IT Student — Macquarie University (Nov 2026)         ║
+║  🌐  Building full-stack web applications with Next.js & TypeScript  ║
 ║  🧩  Main project: Syllabus Sync — student productivity platform     ║
-║  🤖  ML project: CIFAR-10 image classification with Gradio & HF      ║
-║  🔐  Experience with MFA, RLS, authentication, and secure systems    ║
-║  🌍  Multilingual UX, RTL support, accessibility, and testing        ║
-║  🧪  Working with Vitest, Playwright, CI/CD, and deployment          ║
-║  🤝  Open to Graduate · Junior · Internship developer roles          ║
+║  🤖  Applied ML: CIFAR-10 deep learning pipeline with Gradio & HF    ║
+║  🔐  Auth, MFA, RLS, rate limiting, and security-hardened systems    ║
+║  🌍  Multilingual UX, RTL support, WCAG accessibility, and testing   ║
+║  🧪  CI/CD with GitHub Actions, Vitest, Playwright, and Vercel       ║
+║  🤝  Open to Graduate · Junior · Early-Career software roles         ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -74,12 +74,12 @@
 
 **[ BACKEND & DATA ]**
 
-[![Supabase](https://skillicons.dev/icons?i=supabase&theme=dark)](https://supabase.com)
 [![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://nodejs.org)
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=dark)](https://www.postgresql.org)
+[![Supabase](https://skillicons.dev/icons?i=supabase&theme=dark)](https://supabase.com)
 <a href="https://restfulapi.net/"><img src="https://img.shields.io/badge/REST%20APIs-0f172a?style=for-the-badge&logo=fastapi&logoColor=22c55e" alt="REST APIs"/></a>
 
-**[ ML / AI ]**
+**[ APPLIED AI / ML ]**
 
 [![PyTorch](https://img.shields.io/badge/PyTorch-0f172a?style=for-the-badge&logo=pytorch&logoColor=f97316)](https://pytorch.org)
 <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/scikit--learn-0f172a?style=for-the-badge&logo=scikitlearn&logoColor=f59e0b" alt="scikit-learn"/></a>
@@ -161,9 +161,9 @@
 
 #### 🚀 Syllabus Sync — Student Productivity Platform
 
-> **Full-stack student productivity platform for Macquarie University students**
+> **Full-stack web application for academic planning and campus support at Macquarie University**
 
-- Academic planning, deadlines, and campus navigation in one place
+- Academic planning, deadline tracking, and campus navigation in one place
 - Multilingual support with RTL layout and mobile-first design
 - Secure authentication with MFA, row-level security, and rate limiting
 - Accessibility and internationalisation improvements aligned with WCAG principles
@@ -179,13 +179,13 @@
 
 #### 🤖 CIFAR-10 Image Classification — Deep Learning Pipeline
 
-> **End-to-end image classification project with training, interpretability, and deployment**
+> **End-to-end image classification pipeline comparing training approaches with a live interactive demo**
 
-- Evaluated five deep learning architectures on CIFAR-10 under controlled conditions
+- Evaluated multiple deep learning architectures on CIFAR-10 under controlled conditions
 - Built with Python, PyTorch, Jupyter, Gradio, and deployed on Hugging Face Spaces
 - Applied data augmentation, cosine annealing, and progressive unfreezing for improved generalisation
-- Added Grad-CAM visualisation, INT8 quantisation, CLI inference tools, and a Gradio interface
-- MobileNetV2 achieved 86.91% test accuracy, outperforming the custom CNN and ResNet-18 baseline
+- Extended with Grad-CAM interpretability, INT8 quantisation, CLI inference tools, and a Gradio interface
+- ResNet-18 achieved 87.48% test accuracy using transfer learning, outperforming the custom CNN baseline
 
 🔗 [Live Demo](https://cifar10.pouyaalavi.dev) &nbsp;·&nbsp; 📁 [Repository](https://github.com/mrpouyaalavi/CIFAR-10-Image-Classification)
 
@@ -207,9 +207,9 @@
 ```text
 > Establishing connection...
 > Protocol   : HTTPS  |  Auth: Open
-> Target     : Pouya Alavi Naeini — Full-Stack Developer
+> Target     : Pouya Alavi Naeini — Software Engineer | Applied AI/ML
 > Location   : Sydney, Australia
-> Status     : [●] ONLINE — open to opportunities
+> Status     : [●] ONLINE — open to graduate & early-career opportunities
 ```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6366f1?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=0f172a)](https://www.linkedin.com/in/pouya-alavi/)
