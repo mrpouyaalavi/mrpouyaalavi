@@ -35,7 +35,8 @@
 ║  🎓  Final-Year IT Student — Macquarie University (Nov 2026)         ║
 ║  🌐  Building full-stack web applications with Next.js & TypeScript  ║
 ║  🧩  Main project: Syllabus Sync — student productivity platform     ║
-║  🤖  Applied ML: CIFAR-10 deep learning pipeline with Gradio & HF    ║
+║  🤖  Applied ML: CIFAR-10 deep learning pipeline with Gradio & HF.   ║
+║  📱  Mobile: MQ Navigation — Flutter campus app · 323 tests · RTL    ║ 
 ║  🔐  Auth, MFA, RLS, rate limiting, and security-hardened systems    ║
 ║  🌍  Multilingual UX, RTL support, WCAG accessibility, and testing   ║
 ║  🧪  CI/CD with GitHub Actions, Vitest, Playwright, and Vercel       ║
@@ -61,16 +62,18 @@
 [![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://www.python.org)
 [![TypeScript](https://skillicons.dev/icons?i=ts&theme=dark)](https://www.typescriptlang.org)
 [![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Dart](https://skillicons.dev/icons?i=dart&theme=dark)](https://dart.dev)
 [![Java](https://skillicons.dev/icons?i=java&theme=dark)](https://www.java.com)
 [![SQL](https://skillicons.dev/icons?i=postgresql&theme=dark)](https://www.postgresql.org)
 [![HTML](https://skillicons.dev/icons?i=html&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://skillicons.dev/icons?i=css&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-**[ FRONTEND ]**
+**[ FRONTEND & MOBILE ]**
 
 [![React](https://skillicons.dev/icons?i=react&theme=dark)](https://react.dev)
 [![Next.js](https://skillicons.dev/icons?i=nextjs&theme=dark)](https://nextjs.org)
 [![Tailwind CSS](https://skillicons.dev/icons?i=tailwind&theme=dark)](https://tailwindcss.com)
+[![Flutter](https://skillicons.dev/icons?i=flutter&theme=dark)](https://flutter.dev)
 
 **[ BACKEND & DATA ]**
 
@@ -95,6 +98,7 @@
 [![Docker](https://skillicons.dev/icons?i=docker&theme=dark)](https://www.docker.com)
 [![Vitest](https://img.shields.io/badge/Vitest-6366f1?style=for-the-badge&logo=vitest&logoColor=ffffff)](https://vitest.dev)
 [![Playwright](https://img.shields.io/badge/Playwright-22c55e?style=for-the-badge&logo=playwright&logoColor=ffffff)](https://playwright.dev)
+[![Flutter Test](https://img.shields.io/badge/Flutter_Test-0f172a?style=for-the-badge&logo=flutter&logoColor=02569B)](https://docs.flutter.dev/testing)
 
 </div>
 
@@ -103,7 +107,6 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,30:6366f1,60:22c55e,100:0f172a&height=2" width="100%"/>
 
 <br/>
-
 <!-- ══════════════════════════════ STATS ══════════════════════════════ -->
 <div align="center">
 
@@ -191,6 +194,25 @@
 
 </td>
 </tr>
+
+<tr>
+<td valign="top" width="100%">
+
+#### 🧭 MQ Navigation — Privacy-First Campus Companion
+
+> **Production-ready Flutter app for navigating Macquarie University — dual-renderer maps, turn-by-turn routing, and 35-language i18n, with zero tracking**
+
+- Dual-renderer maps switching between Google Maps and a calibrated illustrated campus raster, pinpointing building entrances
+- Turn-by-turn routing via Supabase Edge proxy with walking, driving, cycling, and transit modes
+- Campus Safety Toolkit with emergency contacts, AED locations, flashlight, and live MQ metro countdown via TfNSW Open Data
+- Privacy-by-design architecture: optional account, zero analytics packages, no location history — enforced by a CI privacy guard
+- 323 tests (240+ unit, 50+ widget), 0 analyzer issues, and full RTL support for Arabic, Farsi, Hebrew, and Urdu
+- Shares a Supabase backend with Syllabus Sync in a two-frontends, one-backend architecture
+
+📁 [Repository](https://github.com/mrpouyaalavi/mq-navigation)
+
+</td>
+</tr>
 </table>
 
 <br/>
@@ -207,7 +229,7 @@
 ```text
 > Establishing connection...
 > Protocol   : HTTPS  |  Auth: Open
-> Target     : Pouya Alavi Naeini — Software Engineer | Applied AI/ML
+> Target     : Pouya Alavi Naeini — Software Engineer
 > Location   : Sydney, Australia
 > Status     : [●] ONLINE — open to graduate & early-career opportunities
 ```
