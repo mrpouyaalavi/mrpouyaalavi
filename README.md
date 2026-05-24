@@ -209,7 +209,7 @@
 - 323 tests (240+ unit, 50+ widget), 0 analyzer issues, and full RTL support for Arabic, Farsi, Hebrew, and Urdu
 - Shares a Supabase backend with Syllabus Sync in a two-frontends, one-backend architecture
 
-📁 [Repository](https://github.com/mrpouyaalavi/mq-navigation)
+📁 [Repository]((https://github.com/mrpouyaalavi/MQ_Navigation))
 
 </td>
 </tr>
