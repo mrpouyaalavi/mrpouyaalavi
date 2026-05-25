@@ -202,12 +202,11 @@
 
 > **Production-ready Flutter app for navigating Macquarie University — dual-renderer maps, turn-by-turn routing, and 35-language i18n, with zero tracking**
 
-- Dual-renderer maps switching between Google Maps and a calibrated illustrated campus raster, pinpointing building entrances
+- Dual-renderer maps switching between Google Maps and a calibrated, illustrated campus raster, pinpointing building entrances
 - Turn-by-turn routing via Supabase Edge proxy with walking, driving, cycling, and transit modes
 - Campus Safety Toolkit with emergency contacts, AED locations, flashlight, and live MQ metro countdown via TfNSW Open Data
 - Privacy-by-design architecture: optional account, zero analytics packages, no location history — enforced by a CI privacy guard
-- 323 tests (240+ unit, 50+ widget), 0 analyzer issues, and full RTL support for Arabic, Farsi, Hebrew, and Urdu
-- Shares a Supabase backend with Syllabus Sync in a two-frontends, one-backend architecture
+- 323 tests (240+ unit, 50+ widget), 0 analyser issues, and full RTL support for Arabic, Farsi, Hebrew, and Urdu
 
 📁 [Repository](https://github.com/mrpouyaalavi/MQ_Navigation)
 
