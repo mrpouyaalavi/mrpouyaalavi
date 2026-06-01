@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=700&color=6366F1&center=true&vCenter=true&width=860&lines=Software+Engineer+%7C+Next.[...]
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=700&color=6366F1&center=true&vCenter=true&width=860&lines=Software+Engineer+%7C+Next.js+%26+TypeScript;Final-Year+IT+Student+%7C+Macquarie+University;Full-Stack+Web+Development+%7C+Applied+AI;Building+Syllabus+Sync+%26+MQ+Navigation;Open+to+Graduate+%26+Junior+Software+Roles)](https://git.io/typing-svg)
 
 </div>
 
@@ -31,17 +31,17 @@
 </div>
 
 ```text
-╔════════════════════════════════════════════════════════════════�[...]
-║  🎓  Final-Year IT Student — Macquarie University (Nov 2026)         ║
-║  🌐  Building full-stack web applications with Next.js & TypeScript  ║
-║  🧩  Main project: Syllabus Sync — Student Experience Platform       ║
-║  🤖  Applied ML: CIFAR-10 deep learning pipeline with Gradio & HF.   ║
-║  📱  Mobile: MQ Navigation — Flutter campus wayfinding prototype     ║ 
+╔══════════════════════════════════════════════════════════════════════════════
+║  🎓  Final-Year IT Student — Macquarie University (Nov 2026)                 ║
+║  🌐  Building full-stack web applications with Next.js & TypeScript          ║
+║  🧩  Main project: Syllabus Sync — Student Experience Platform               ║
+║  🤖  Applied ML: CIFAR-10 deep learning pipeline with Gradio & HF.           ║
+║  📱  Mobile: MQ Navigation — Flutter campus wayfinding prototype             ║ 
 ║  🔐  Auth, MFA, RLS, rate limiting, and security-aware full-stack systems    ║
-║  🌍  Multilingual UX, RTL support, WCAG accessibility, and testing   ║
-║  🧪  CI/CD with GitHub Actions, Vitest, Playwright, and Vercel       ║
-║  🤝  Open to Graduate · Junior · Early-Career software roles         ║
-╚════════════════════════════════════════════════════════════════�[...]
+║  🌍  Multilingual UX, RTL support, WCAG accessibility, and testing           ║
+║  🧪  CI/CD with GitHub Actions, Vitest, Playwright, and Vercel               ║
+║  🤝  Open to Graduate · Junior · Early-Career software roles                 ║
+╚═════════════════════════════════════════════════════════════════════════════ 
 ```
 
 <br/>
@@ -233,7 +233,8 @@
 > Status     : [●] ONLINE — open to graduate & early-career opportunities
 ```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6366f1?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=0f172a)](https://www.linkedin.com/in/pouya-alavi/)
-[![Email](https://img.shields.io/badge/Email-Contact-0ea5e9?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=0f172a)](mailto:pouya@pouyaalavi.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-22c55e?style=for-the-badge&labelColor=0f172a)](https://www.pouyaalavi.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&labelColor=0f172a)](https://www.linkedin.com/in/pouya-alavi/)
+[![Email](https://img.shields.io/badge/Email-Contact-0ea5e9?style=for-the-badge&labelColor=0f172a)](mailto:pouya@pouyaalavi.dev)
 
 </div>
