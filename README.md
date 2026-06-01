@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=700&color=6366F1&center=true&vCenter=true&width=860&lines=Software+Engineer+%7C+Next.js+%C2%B7+React+%C2%B7+TypeScript;Full-Stack+Web+Development+%7C+Applied+AI%2FML;IT+%26+Software+Engineering+%7C+Macquarie+University;Open+to+Graduate+%26+Early-Career+Software+Roles)](https://readme-typing-svg.demolab.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=700&color=6366F1&center=true&vCenter=true&width=860&lines=Software+Engineer+%7C+Next.[...]
 
 </div>
 
@@ -31,17 +31,17 @@
 </div>
 
 ```text
-╔══════════════════════════════════════════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════�[...]
 ║  🎓  Final-Year IT Student — Macquarie University (Nov 2026)         ║
 ║  🌐  Building full-stack web applications with Next.js & TypeScript  ║
-║  🧩  Main project: Syllabus Sync — student productivity platform     ║
+║  🧩  Main project: Syllabus Sync — Student Experience Platform       ║
 ║  🤖  Applied ML: CIFAR-10 deep learning pipeline with Gradio & HF.   ║
-║  📱  Mobile: MQ Navigation — Flutter campus app · 323 tests · RTL    ║ 
-║  🔐  Auth, MFA, RLS, rate limiting, and security-hardened systems    ║
+║  📱  Mobile: MQ Navigation — Flutter campus wayfinding prototype     ║ 
+║  🔐  Auth, MFA, RLS, rate limiting, and security-aware full-stack systems    ║
 ║  🌍  Multilingual UX, RTL support, WCAG accessibility, and testing   ║
 ║  🧪  CI/CD with GitHub Actions, Vitest, Playwright, and Vercel       ║
 ║  🤝  Open to Graduate · Junior · Early-Career software roles         ║
-╚══════════════════════════════════════════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════�[...]
 ```
 
 <br/>
@@ -126,7 +126,7 @@
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mrpouyaalavi&theme=dark&background=0f172a&border=6366f1&stroke=6366f1&ring=22c55e&fire=f59e0b&currStreakLabel=6366f1&sideLabels=6366f1&dates=e4e4e7&border_radius=0)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mrpouyaalavi&theme=dark&background=0f172a&border=6366f1&stroke=6366f1&ring=22c55e&fire=f59e0b&currStreakLabel=6366f1&sideLabels=6366f1&dates=e4e[...] 
 
 </div>
 
@@ -136,12 +136,12 @@
 
 <br/>
 
-<!-- ══════════════════════════════ ACTIVITY GRAPH ══════════════════════════════ -->
+<!-- ══════════════════════════════ ACTIVITY GRAPH ═════════════════════════════�[...]
 <div align="center">
 
 ### `> htop --graph`
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mrpouyaalavi&bg_color=0f172a&color=6366f1&line=22c55e&point=f59e0b&area=true&area_color=6366f1&border_color=6366f1&custom_title=Commit%20Activity%20%7C%20mrpouyaalavi&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mrpouyaalavi&bg_color=0f172a&color=6366f1&line=22c55e&point=f59e0b&area=true&area_color=6366f1&border_color=6366f1&cus[...] 
 
 </div>
 
@@ -162,12 +162,12 @@
 <tr>
 <td valign="top" width="100%">
 
-#### 🚀 Syllabus Sync — Student Productivity Platform
+#### 🚀 Syllabus Sync — Student Experience Platform
 
-> **Full-stack web application for academic planning and campus support at Macquarie University**
+> **Full-stack student experience platform for Macquarie University students with academic planning, deadlines, campus support, and multilingual UX.**
 
-- Academic planning, deadline tracking, and campus navigation in one place
-- Multilingual support with RTL layout and mobile-first design
+- Academic planning, deadline tracking, and campus support in one cohesive interface
+- Multilingual support with RTL layout and mobile-first responsive design
 - Secure authentication with MFA, row-level security, and rate limiting
 - Accessibility and internationalisation improvements aligned with WCAG principles
 - CI/CD workflows with GitHub Actions and deployment on Vercel
@@ -182,13 +182,13 @@
 
 #### 🤖 CIFAR-10 Image Classification — Deep Learning Pipeline
 
-> **End-to-end image classification pipeline comparing training approaches with a live interactive demo**
+> **CIFAR-10 image classification project comparing a custom CNN, MobileNetV2, and ResNet-18 with Grad-CAM interpretability, CLI inference tools, and a live Gradio demo deployed on Hugging Face Spaces.**
 
 - Evaluated multiple deep learning architectures on CIFAR-10 under controlled conditions
-- Built with Python, PyTorch, Jupyter, Gradio, and deployed on Hugging Face Spaces
+- Built with Python, PyTorch, Jupyter, and Gradio (deployed on Hugging Face Spaces)
 - Applied data augmentation, cosine annealing, and progressive unfreezing for improved generalisation
-- Extended with Grad-CAM interpretability, INT8 quantisation, CLI inference tools, and a Gradio interface
-- ResNet-18 achieved 87.48% test accuracy using transfer learning, outperforming the custom CNN baseline
+- Includes Grad-CAM interpretability, INT8 quantisation, and CLI inference tools
+- ResNet-18 achieved 87.48% test accuracy using transfer learning
 
 🔗 [Live Demo](https://cifar10.pouyaalavi.dev) &nbsp;·&nbsp; 📁 [Repository](https://github.com/mrpouyaalavi/CIFAR-10-Image-Classification)
 
@@ -198,15 +198,15 @@
 <tr>
 <td valign="top" width="100%">
 
-#### 🧭 MQ Navigation — Privacy-First Campus Companion
+#### 🧭 MQ Navigation — Campus Wayfinding Prototype
 
-> **Production-ready Flutter app for navigating Macquarie University — dual-renderer maps, turn-by-turn routing, and 35-language i18n, with zero tracking**
+> **Mobile-first campus wayfinding prototype for Macquarie University students, visitors, prospective students, and Open Day attendees.**
 
-- Dual-renderer maps switching between Google Maps and a calibrated, illustrated campus raster, pinpointing building entrances
-- Turn-by-turn routing via Supabase Edge proxy with walking, driving, cycling, and transit modes
-- Campus Safety Toolkit with emergency contacts, AED locations, flashlight, and live MQ metro countdown via TfNSW Open Data
-- Privacy-by-design architecture: optional account, zero analytics packages, no location history — enforced by a CI privacy guard
-- 323 tests (240+ unit, 50+ widget), 0 analyser issues, and full RTL support for Arabic, Farsi, Hebrew, and Urdu
+- Helps users find buildings, services, transport, food, parking, and key campus locations
+- Built with Flutter and Dart, with a mobile-first interface for campus wayfinding
+- Designed as a companion project to the broader Syllabus Sync student experience vision
+- Focused on practical navigation, visitor support, and Open Day-style use cases
+- Open-source repository available for review and future development
 
 📁 [Repository](https://github.com/mrpouyaalavi/MQ_Navigation)
 
