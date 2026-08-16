@@ -2,18 +2,20 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=700&color=6366F1&center=true&vCenter=true&width=860&lines=Software+Engineer+%7C+Next.js+%26+TypeScript;Final-Year+IT+Student+%7C+Macquarie+University;Full-Stack+Web+Development+%7C+Applied+AI;Building+Syllabus+Sync+%26+MQ+Navigation;Open+to+Graduate+%26+Junior+Software+Roles)](https://git.io/typing-svg)
+# Leo Alavi
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=700&color=6366F1&center=true&vCenter=true&width=860&lines=Graduate+Software+Engineer+%7C+Full-Stack%2C+AI+%26+Data;Next.js+%26+TypeScript+%7C+Applied+AI;Final-Year+IT+Student+%7C+Macquarie+University;Co-Founder%2C+Syllabus+Sync;Open+to+Graduate+%26+Junior+Software+Roles)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6366f1?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/pouya-alavi/)
-[![Portfolio](https://img.shields.io/badge/Syllabus_Sync-22c55e?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://syllabus-sync-mq.vercel.app)
-[![CIFAR-10 Demo](https://img.shields.io/badge/CIFAR--10_Demo-f59e0b?style=for-the-badge&logo=huggingface&logoColor=ffffff)](https://cifar10.pouyaalavi.dev)
-[![GitHub](https://img.shields.io/badge/GitHub-0f1115?style=for-the-badge&logo=github&logoColor=6366f1)](https://github.com/mrpouyaalavi)
-[![Email](https://img.shields.io/badge/Email-0ea5e9?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:pouya@pouyaalavi.dev)
-[![Profile Views](https://komarev.com/ghpvc/?username=mrpouyaalavi&color=6366f1&style=for-the-badge&label=VISITORS)](https://github.com/mrpouyaalavi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6366f1?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/leo-alavi/)
+[![Syllabus Sync](https://img.shields.io/badge/Syllabus_Sync-22c55e?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://www.syllabus-sync.app)
+[![CIFAR-10 Demo](https://img.shields.io/badge/CIFAR--10_Demo-f59e0b?style=for-the-badge&logo=huggingface&logoColor=ffffff)](https://cifar10.leoalavi.dev)
+[![GitHub](https://img.shields.io/badge/GitHub-0f1115?style=for-the-badge&logo=github&logoColor=6366f1)](https://github.com/leoalavi)
+[![Email](https://img.shields.io/badge/Email-0ea5e9?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:leo@leoalavi.dev)
+[![Profile Views](https://komarev.com/ghpvc/?username=leoalavi&color=6366f1&style=for-the-badge&label=VISITORS)](https://github.com/leoalavi)
 
 </div>
 
@@ -34,7 +36,7 @@
 ╔══════════════════════════════════════════════════════════════════════════════
 ║  🎓  Final-Year IT Student — Macquarie University (Nov 2026)                 ║
 ║  🌐  Building full-stack web applications with Next.js & TypeScript          ║
-║  🧩  Main project: Syllabus Sync — Student Experience Platform               ║
+║  🧩  Co-Founder & main project: Syllabus Sync — Student Experience Platform  ║
 ║  🤖  Applied ML: CIFAR-10 deep learning pipeline with Gradio & HF.           ║
 ║  📱  Mobile: MQ Navigation — Flutter campus wayfinding prototype             ║ 
 ║  🔐  Auth, MFA, RLS, rate limiting, and security-aware full-stack systems    ║
@@ -114,19 +116,19 @@
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrpouyaalavi&theme=github_dark" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leoalavi&theme=github_dark" width="100%"/>
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrpouyaalavi&theme=github_dark" height="160em"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leoalavi&theme=github_dark" height="160em"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrpouyaalavi&theme=github_dark" height="160em"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leoalavi&theme=github_dark" height="160em"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrpouyaalavi&theme=github_dark" height="160em"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=leoalavi&theme=github_dark" height="160em"/>
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mrpouyaalavi&theme=dark&background=0f172a&border=6366f1&stroke=6366f1&ring=22c55e&fire=f59e0b&currStreakLabel=6366f1&sideLabels=6366f1&dates=e4e[...] 
+[![GitHub Streak](https://streak-stats.demolab.com?user=leoalavi&theme=dark&hide_border=true&background=0f172a&border=6366f1&stroke=6366f1&ring=22c55e&fire=f59e0b&currStreakLabel=6366f1&sideLabels=6366f1&dates=e2e8f0)](https://github.com/leoalavi)
 
 </div>
 
@@ -136,12 +138,12 @@
 
 <br/>
 
-<!-- ══════════════════════════════ ACTIVITY GRAPH ═════════════════════════════�[...]
+<!-- ══════════════════════════════ ACTIVITY GRAPH ══════════════════════════════ -->
 <div align="center">
 
 ### `> htop --graph`
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mrpouyaalavi&bg_color=0f172a&color=6366f1&line=22c55e&point=f59e0b&area=true&area_color=6366f1&border_color=6366f1&cus[...] 
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=leoalavi&bg_color=0f172a&color=6366f1&line=22c55e&point=f59e0b&area=true&area_color=6366f1&border_color=6366f1&hide_border=true)](https://github.com/leoalavi)
 
 </div>
 
@@ -162,7 +164,7 @@
 <tr>
 <td valign="top" width="100%">
 
-#### 🚀 Syllabus Sync — Student Experience Platform
+#### 🚀 Syllabus Sync — Student Experience Platform (Co-Founder)
 
 > **Full-stack student experience platform for Macquarie University students with academic planning, deadlines, campus support, and multilingual UX.**
 
@@ -172,7 +174,7 @@
 - Accessibility and internationalisation improvements aligned with WCAG principles
 - CI/CD workflows with GitHub Actions and deployment on Vercel
 
-🔗 [Live Demo](https://syllabus-sync-mq.vercel.app) &nbsp;·&nbsp; 📁 [Repository](https://github.com/mrpouyaalavi/syllabus-sync)
+🔗 [Live Demo](https://www.syllabus-sync.app) &nbsp;·&nbsp; 📁 [Repository](https://github.com/leoalavi/syllabus-sync)
 
 </td>
 </tr>
@@ -190,7 +192,7 @@
 - Includes Grad-CAM interpretability, INT8 quantisation, and CLI inference tools
 - ResNet-18 achieved 87.48% test accuracy using transfer learning
 
-🔗 [Live Demo](https://cifar10.pouyaalavi.dev) &nbsp;·&nbsp; 📁 [Repository](https://github.com/mrpouyaalavi/CIFAR-10-Image-Classification)
+🔗 [Live Demo](https://cifar10.leoalavi.dev) &nbsp;·&nbsp; 📁 [Repository](https://github.com/leoalavi/CIFAR-10-Image-Classification)
 
 </td>
 </tr>
@@ -208,7 +210,7 @@
 - Focused on practical navigation, visitor support, and Open Day-style use cases
 - Open-source repository available for review and future development
 
-📁 [Repository](https://github.com/mrpouyaalavi/MQ_Navigation)
+📁 [Repository](https://github.com/leoalavi/MQ_Navigation)
 
 </td>
 </tr>
@@ -228,13 +230,13 @@
 ```text
 > Establishing connection...
 > Protocol   : HTTPS  |  Auth: Open
-> Target     : Pouya Alavi Naeini — Software Engineer
+> Target     : Leo Alavi — Graduate Software Engineer
 > Location   : Sydney, Australia
 > Status     : [●] ONLINE — open to graduate & early-career opportunities
 ```
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-22c55e?style=for-the-badge&labelColor=0f172a)](https://www.pouyaalavi.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&labelColor=0f172a)](https://www.linkedin.com/in/pouya-alavi/)
-[![Email](https://img.shields.io/badge/Email-Contact-0ea5e9?style=for-the-badge&labelColor=0f172a)](mailto:pouya@pouyaalavi.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-22c55e?style=for-the-badge&labelColor=0f172a)](https://www.leoalavi.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&labelColor=0f172a)](https://www.linkedin.com/in/leo-alavi/)
+[![Email](https://img.shields.io/badge/Email-Contact-0ea5e9?style=for-the-badge&labelColor=0f172a)](mailto:leo@leoalavi.dev)
 
 </div>
