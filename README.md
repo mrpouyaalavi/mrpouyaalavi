@@ -34,11 +34,11 @@
 
 ```text
 ╔══════════════════════════════════════════════════════════════════════════════
-║  🎓  Final-Year IT Student — Macquarie University (Nov 2026)                 ║
+║  🎓  Final-Year IT Student - Macquarie University (Nov 2026)                 ║
 ║  🌐  Building full-stack web applications with Next.js & TypeScript          ║
 ║  🧩  Co-Founder & main project: Syllabus Sync — Student Experience Platform  ║
 ║  🤖  Applied ML: CIFAR-10 deep learning pipeline with Gradio & HF.           ║
-║  📱  Mobile: MQ Navigation — Flutter campus wayfinding prototype             ║ 
+║  📱  Mobile: MQ Navigation - Flutter campus wayfinding prototype             ║ 
 ║  🔐  Auth, MFA, RLS, rate limiting, and security-aware full-stack systems    ║
 ║  🌍  Multilingual UX, RTL support, WCAG accessibility, and testing           ║
 ║  🧪  CI/CD with GitHub Actions, Vitest, Playwright, and Vercel               ║
@@ -164,7 +164,7 @@
 <tr>
 <td valign="top" width="100%">
 
-#### 🚀 Syllabus Sync — Student Experience Platform (Co-Founder)
+#### 🚀 Syllabus Sync - Student Experience Platform (Co-Founder)
 
 > **Full-stack student experience platform for Macquarie University students with academic planning, deadlines, campus support, and multilingual UX.**
 
@@ -182,7 +182,7 @@
 <tr>
 <td valign="top" width="100%">
 
-#### 🤖 CIFAR-10 Image Classification — Deep Learning Pipeline
+#### 🤖 CIFAR-10 Image Classification - Deep Learning Pipeline
 
 > **CIFAR-10 image classification project comparing a custom CNN, MobileNetV2, and ResNet-18 with Grad-CAM interpretability, CLI inference tools, and a live Gradio demo deployed on Hugging Face Spaces.**
 
@@ -200,7 +200,7 @@
 <tr>
 <td valign="top" width="100%">
 
-#### 🧭 MQ Navigation — Campus Wayfinding Prototype
+#### 🧭 MQ Navigation - Campus Wayfinding Prototype
 
 > **Mobile-first campus wayfinding prototype for Macquarie University students, visitors, prospective students, and Open Day attendees.**
 
