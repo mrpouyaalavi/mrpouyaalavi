@@ -269,7 +269,7 @@
 
 ### `> tail -f commit_activity.log`
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=leoalavi&bg_color=0f172a&color=6366f1&line=22c55e&point=f59e0b&area=true&area_color=6366f1&border_color=6366f1&hide_border=true)](https://github.com/leoalavi)
+[![Contribution Graph](https://ghchart.rshah.org/6366f1/leoalavi)](https://github.com/leoalavi)
 
 </div>
 
