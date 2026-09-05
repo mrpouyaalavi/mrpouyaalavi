@@ -4,17 +4,17 @@
 
 # Leo Alavi
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=700&color=6366F1&center=true&vCenter=true&width=860&lines=Graduate+Software+Engineer+%7C+Full-Stack%2C+AI+%26+Data;Next.js+%26+TypeScript+%7C+Applied+AI;Final-Year+IT+Student+%7C+Macquarie+University;Co-Founder%2C+Syllabus+Sync;Open+to+Graduate+%26+Junior+Software+Roles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=700&color=6366F1&center=true&vCenter=true&width=860&lines=Graduate+Software+Engineer+%E2%80%94+Full-Stack%2C+AI+%26+Data;Building+Syllabus+Sync+%E2%80%94+Student+Experience+Platform;Next.js+%7C+TypeScript+%7C+Python+%7C+PyTorch;CIFAR-10+Deep+Learning+Pipeline+%E2%80%94+Live+on+HF+Spaces;Final-Year+IT+Student+%E2%80%94+Macquarie+University%2C+Nov+2026;Open+to+Graduate+%26+Junior+Software+Roles)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6366f1?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/leo-alavi/)
-[![Syllabus Sync](https://img.shields.io/badge/Syllabus_Sync-22c55e?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://www.syllabus-sync.app)
-[![CIFAR-10 Demo](https://img.shields.io/badge/CIFAR--10_Demo-f59e0b?style=for-the-badge&logo=huggingface&logoColor=ffffff)](https://cifar10.leoalavi.dev)
-[![GitHub](https://img.shields.io/badge/GitHub-0f1115?style=for-the-badge&logo=github&logoColor=6366f1)](https://github.com/leoalavi)
-[![Email](https://img.shields.io/badge/Email-0ea5e9?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:leo@leoalavi.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-22c55e?style=for-the-badge&logo=googlechrome&logoColor=ffffff)](https://www.leoalavi.dev/)
+[![Syllabus Sync](https://img.shields.io/badge/Syllabus_Sync-0ea5e9?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://www.syllabus-sync.app)
+[![CIFAR-10 Demo](https://img.shields.io/badge/CIFAR--10_Demo-f59e0b?style=for-the-badge&logo=huggingface&logoColor=030014)](https://cifar10.leoalavi.dev)
+[![Email](https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=6366f1)](mailto:leo@leoalavi.dev)
 [![Profile Views](https://komarev.com/ghpvc/?username=leoalavi&color=6366f1&style=for-the-badge&label=VISITORS)](https://github.com/leoalavi)
 
 </div>
@@ -28,23 +28,107 @@
 <!-- ══════════════════════════════ ABOUT ══════════════════════════════ -->
 <div align="center">
 
-### `> ./about_me --verbose`
+### `> whoami --full`
 
 </div>
 
-```text
-╔══════════════════════════════════════════════════════════════════════════════
-║  🎓  Final-Year IT Student - Macquarie University (Nov 2026)                 ║
-║  🌐  Building full-stack web applications with Next.js & TypeScript          ║
-║  🧩  Co-Founder & main project: Syllabus Sync — Student Experience Platform  ║
-║  🤖  Applied ML: CIFAR-10 deep learning pipeline with Gradio & HF.           ║
-║  📱  Mobile: MQ Navigation - Flutter campus wayfinding prototype             ║ 
-║  🔐  Auth, MFA, RLS, rate limiting, and security-aware full-stack systems    ║
-║  🌍  Multilingual UX, RTL support, WCAG accessibility, and testing           ║
-║  🧪  CI/CD with GitHub Actions, Vitest, Playwright, and Vercel               ║
-║  🤝  Open to Graduate · Junior · Early-Career software roles                 ║
-╚═════════════════════════════════════════════════════════════════════════════ 
 ```
+┌──────────────────────────────────────────────────────────────────────────┐
+│  🎓  Final-year IT student — Macquarie University, graduating Nov 2026  │
+│  🧩  Co-founder & lead builder — Syllabus Sync, student experience app  │
+│  🌐  Full-stack: Next.js, TypeScript, PostgreSQL, Supabase              │
+│  🤖  Applied ML: CNNs, transfer learning, Grad-CAM, Gradio demos        │
+│  📱  Mobile prototyping with Flutter — campus wayfinding & UX research  │
+│  🔐  Security-minded: auth/MFA, row-level security, rate limiting       │
+│  🌍  Multilingual UX, RTL layouts, WCAG-aligned accessibility           │
+│  🧪  CI/CD with GitHub Actions, Vitest, Playwright, deployed on Vercel  │
+│  🤝  Open to graduate, junior & early-career software roles            │
+└──────────────────────────────────────────────────────────────────────────┘
+```
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,30:6366f1,60:22c55e,100:0f172a&height=2" width="100%"/>
+
+<br/>
+
+<!-- ══════════════════════════════ PROJECTS ══════════════════════════════ -->
+<div align="center">
+
+### `> ls -la ./projects --detail`
+
+</div>
+
+<table>
+<tr>
+<td>
+
+**🚀 [Syllabus Sync](https://www.syllabus-sync.app)** &nbsp; ![Co-Founder](https://img.shields.io/badge/Co--Founder-22c55e?style=flat-square) ![Active](https://img.shields.io/badge/●_Active-6366f1?style=flat-square)
+
+*Full-stack student experience platform — academic planning, deadlines, and campus support for Macquarie University students*
+
+![Next.js](https://img.shields.io/badge/Next.js-0f172a?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=0f172a) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+- Academic planning, deadline tracking, and campus support in one cohesive interface
+- Multilingual support with RTL layout and mobile-first responsive design
+- Secure authentication with MFA, row-level security, and rate limiting
+- Accessibility and internationalisation work aligned with WCAG principles
+- CI/CD pipeline via GitHub Actions with deployment on Vercel
+
+<div align="center">
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-22c55e?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://www.syllabus-sync.app) &nbsp; [![Repository](https://img.shields.io/badge/Repository-6366f1?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/leoalavi/syllabus-sync)
+
+</div>
+
+</td>
+</tr>
+<tr>
+<td>
+
+**🤖 [CIFAR-10 Image Classification](https://github.com/leoalavi/CIFAR-10-Image-Classification)** &nbsp; ![87.48% Accuracy](https://img.shields.io/badge/87.48%25_Accuracy-f59e0b?style=flat-square)
+
+*Comparing a custom CNN, MobileNetV2, and ResNet-18 with Grad-CAM interpretability and a live Gradio demo*
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Gradio](https://img.shields.io/badge/Gradio-f59e0b?style=flat-square&logo=huggingface&logoColor=0f172a) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+- Evaluated multiple deep learning architectures on CIFAR-10 under controlled conditions
+- Applied data augmentation, cosine annealing, and progressive unfreezing for generalisation
+- Built in Grad-CAM interpretability, INT8 quantisation, and CLI inference tooling
+- ResNet-18 reached **87.48% test accuracy** via transfer learning
+- Deployed as an interactive demo on Hugging Face Spaces
+
+<div align="center">
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-f59e0b?style=for-the-badge&logo=huggingface&logoColor=030014)](https://cifar10.leoalavi.dev) &nbsp; [![Repository](https://img.shields.io/badge/Repository-6366f1?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/leoalavi/CIFAR-10-Image-Classification)
+
+</div>
+
+</td>
+</tr>
+<tr>
+<td>
+
+**🧭 [MQ Navigation](https://github.com/leoalavi/MQ_Navigation)** &nbsp; ![Prototype](https://img.shields.io/badge/Prototype-a78bfa?style=flat-square)
+
+*Mobile-first campus wayfinding prototype for students, visitors, and Open Day attendees*
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+- Helps users find buildings, services, transport, food, and parking on campus
+- Mobile-first interface built with Flutter and Dart
+- Designed as a companion project to the broader Syllabus Sync vision
+- Open-source and available for review and future development
+
+<div align="center">
+
+[![Repository](https://img.shields.io/badge/Repository-6366f1?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/leoalavi/MQ_Navigation)
+
+</div>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -55,7 +139,7 @@
 <!-- ══════════════════════════════ SKILLS ══════════════════════════════ -->
 <div align="center">
 
-### `> skills --list-all`
+### `> stack --inspect --all`
 
 <br/>
 
@@ -66,9 +150,10 @@
 [![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Dart](https://skillicons.dev/icons?i=dart&theme=dark)](https://dart.dev)
 [![Java](https://skillicons.dev/icons?i=java&theme=dark)](https://www.java.com)
-[![SQL](https://skillicons.dev/icons?i=postgresql&theme=dark)](https://www.postgresql.org)
 [![HTML](https://skillicons.dev/icons?i=html&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://skillicons.dev/icons?i=css&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+&nbsp;
+[![SQL](https://img.shields.io/badge/SQL-0f172a?style=flat-square&logo=postgresql&logoColor=6366f1)](https://www.postgresql.org)
 
 **[ FRONTEND & MOBILE ]**
 
@@ -82,15 +167,16 @@
 [![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://nodejs.org)
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=dark)](https://www.postgresql.org)
 [![Supabase](https://skillicons.dev/icons?i=supabase&theme=dark)](https://supabase.com)
-<a href="https://restfulapi.net/"><img src="https://img.shields.io/badge/REST%20APIs-0f172a?style=for-the-badge&logo=fastapi&logoColor=22c55e" alt="REST APIs"/></a>
+&nbsp;
+[![REST APIs](https://img.shields.io/badge/REST_APIs-0f172a?style=for-the-badge&logo=fastapi&logoColor=22c55e)](https://restfulapi.net/)
 
 **[ APPLIED AI / ML ]**
 
 [![PyTorch](https://img.shields.io/badge/PyTorch-0f172a?style=for-the-badge&logo=pytorch&logoColor=f97316)](https://pytorch.org)
-<a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/scikit--learn-0f172a?style=for-the-badge&logo=scikitlearn&logoColor=f59e0b" alt="scikit-learn"/></a>
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-0f172a?style=for-the-badge&logo=scikitlearn&logoColor=f59e0b)](https://scikit-learn.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-0f172a?style=for-the-badge&logo=jupyter&logoColor=f59e0b)](https://jupyter.org)
 [![Gradio](https://img.shields.io/badge/Gradio-0f172a?style=for-the-badge&logo=huggingface&logoColor=f59e0b)](https://www.gradio.app)
-<a href="https://arxiv.org/abs/1610.02391"><img src="https://img.shields.io/badge/Grad--CAM-0f172a?style=for-the-badge&logoColor=ffffff" alt="Grad-CAM"/></a>
+[![Grad-CAM](https://img.shields.io/badge/Grad--CAM-0f172a?style=for-the-badge&logoColor=ffffff)](https://arxiv.org/abs/1610.02391)
 
 **[ TESTING & DEVOPS ]**
 
@@ -98,6 +184,7 @@
 [![GitHub Actions](https://skillicons.dev/icons?i=githubactions&theme=dark)](https://github.com/features/actions)
 [![Vercel](https://skillicons.dev/icons?i=vercel&theme=dark)](https://vercel.com)
 [![Docker](https://skillicons.dev/icons?i=docker&theme=dark)](https://www.docker.com)
+&nbsp;
 [![Vitest](https://img.shields.io/badge/Vitest-6366f1?style=for-the-badge&logo=vitest&logoColor=ffffff)](https://vitest.dev)
 [![Playwright](https://img.shields.io/badge/Playwright-22c55e?style=for-the-badge&logo=playwright&logoColor=ffffff)](https://playwright.dev)
 [![Flutter Test](https://img.shields.io/badge/Flutter_Test-0f172a?style=for-the-badge&logo=flutter&logoColor=02569B)](https://docs.flutter.dev/testing)
@@ -109,10 +196,49 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,30:6366f1,60:22c55e,100:0f172a&height=2" width="100%"/>
 
 <br/>
+
+<!-- ══════════════════════════════ CURRENTLY BUILDING ══════════════════════════════ -->
+<div align="center">
+
+### `> status --active-builds`
+
+| 🛠 Project | Description | Stack | Status |
+|:---|:---|:---|:---:|
+| **Syllabus Sync** | Student experience platform · academic planning & campus support | ![Next.js](https://img.shields.io/badge/Next.js-0f172a?style=flat-square&logo=nextdotjs&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=0f172a) | ![Active](https://img.shields.io/badge/●_Active-22c55e?style=flat-square) |
+| **CIFAR-10 Pipeline** | Model comparison & interpretability tooling, deployed on HF Spaces | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) | ![Shipped](https://img.shields.io/badge/●_Shipped-6366f1?style=flat-square) |
+| **MQ Navigation** | Campus wayfinding prototype for Flutter | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) | ![Prototype](https://img.shields.io/badge/●_Prototype-a78bfa?style=flat-square) |
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,30:6366f1,60:22c55e,100:0f172a&height=2" width="100%"/>
+
+<br/>
+
+<!-- ══════════════════════════════ EDUCATION ══════════════════════════════ -->
+<div align="center">
+
+### `> cat education.log`
+
+| 🎓 Program | 🏛 Institution | 📅 Expected |
+|:---|:---|:---|
+| **Information Technology (Final Year)** | Macquarie University | Nov 2026 |
+
+*Focus areas: full-stack web development, applied machine learning, security fundamentals (auth, MFA, RLS), and accessibility engineering.*
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,30:6366f1,60:22c55e,100:0f172a&height=2" width="100%"/>
+
+<br/>
+
 <!-- ══════════════════════════════ STATS ══════════════════════════════ -->
 <div align="center">
 
-### `> cat stats.json`
+### `> cat stats.json --pretty`
 
 <br/>
 
@@ -141,7 +267,7 @@
 <!-- ══════════════════════════════ ACTIVITY GRAPH ══════════════════════════════ -->
 <div align="center">
 
-### `> htop --graph`
+### `> tail -f commit_activity.log`
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=leoalavi&bg_color=0f172a&color=6366f1&line=22c55e&point=f59e0b&area=true&area_color=6366f1&border_color=6366f1&hide_border=true)](https://github.com/leoalavi)
 
@@ -153,83 +279,14 @@
 
 <br/>
 
-<!-- ══════════════════════════════ PROJECTS ══════════════════════════════ -->
-<div align="center">
-
-### `> ls -la /projects/`
-
-</div>
-
-<table>
-<tr>
-<td valign="top" width="100%">
-
-#### 🚀 Syllabus Sync - Student Experience Platform (Co-Founder)
-
-> **Full-stack student experience platform for Macquarie University students with academic planning, deadlines, campus support, and multilingual UX.**
-
-- Academic planning, deadline tracking, and campus support in one cohesive interface
-- Multilingual support with RTL layout and mobile-first responsive design
-- Secure authentication with MFA, row-level security, and rate limiting
-- Accessibility and internationalisation improvements aligned with WCAG principles
-- CI/CD workflows with GitHub Actions and deployment on Vercel
-
-🔗 [Live Demo](https://www.syllabus-sync.app) &nbsp;·&nbsp; 📁 [Repository](https://github.com/leoalavi/syllabus-sync)
-
-</td>
-</tr>
-
-<tr>
-<td valign="top" width="100%">
-
-#### 🤖 CIFAR-10 Image Classification - Deep Learning Pipeline
-
-> **CIFAR-10 image classification project comparing a custom CNN, MobileNetV2, and ResNet-18 with Grad-CAM interpretability, CLI inference tools, and a live Gradio demo deployed on Hugging Face Spaces.**
-
-- Evaluated multiple deep learning architectures on CIFAR-10 under controlled conditions
-- Built with Python, PyTorch, Jupyter, and Gradio (deployed on Hugging Face Spaces)
-- Applied data augmentation, cosine annealing, and progressive unfreezing for improved generalisation
-- Includes Grad-CAM interpretability, INT8 quantisation, and CLI inference tools
-- ResNet-18 achieved 87.48% test accuracy using transfer learning
-
-🔗 [Live Demo](https://cifar10.leoalavi.dev) &nbsp;·&nbsp; 📁 [Repository](https://github.com/leoalavi/CIFAR-10-Image-Classification)
-
-</td>
-</tr>
-
-<tr>
-<td valign="top" width="100%">
-
-#### 🧭 MQ Navigation - Campus Wayfinding Prototype
-
-> **Mobile-first campus wayfinding prototype for Macquarie University students, visitors, prospective students, and Open Day attendees.**
-
-- Helps users find buildings, services, transport, food, parking, and key campus locations
-- Built with Flutter and Dart, with a mobile-first interface for campus wayfinding
-- Designed as a companion project to the broader Syllabus Sync student experience vision
-- Focused on practical navigation, visitor support, and Open Day-style use cases
-- Open-source repository available for review and future development
-
-📁 [Repository](https://github.com/leoalavi/MQ_Navigation)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,30:6366f1,60:22c55e,100:0f172a&height=2" width="100%"/>
-
-<br/>
-
 <!-- ══════════════════════════════ CONNECT ══════════════════════════════ -->
 <div align="center">
 
-### `> ping --connect`
+### `> curl --connect leoalavi.dev`
 
-```text
+```
 > Establishing connection...
-> Protocol   : HTTPS  |  Auth: Open
+> Protocol   : HTTPS   |  Auth: Open
 > Target     : Leo Alavi — Graduate Software Engineer
 > Location   : Sydney, Australia
 > Status     : [●] ONLINE — open to graduate & early-career opportunities
