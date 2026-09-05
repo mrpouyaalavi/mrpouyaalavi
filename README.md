@@ -34,15 +34,15 @@
 
 ```
 ┌──────────────────────────────────────────────────────────────────────────┐
-│  🎓  Final-year IT student — Macquarie University, graduating Nov 2026  │
-│  🧩  Co-founder & lead builder — Syllabus Sync, student experience app  │
-│  🌐  Full-stack: Next.js, TypeScript, PostgreSQL, Supabase              │
-│  🤖  Applied ML: CNNs, transfer learning, Grad-CAM, Gradio demos        │
-│  📱  Mobile prototyping with Flutter — campus wayfinding & UX research  │
-│  🔐  Security-minded: auth/MFA, row-level security, rate limiting       │
-│  🌍  Multilingual UX, RTL layouts, WCAG-aligned accessibility           │
-│  🧪  CI/CD with GitHub Actions, Vitest, Playwright, deployed on Vercel  │
-│  🤝  Open to graduate, junior & early-career software roles            │
+│  🎓  Final-year IT student — Macquarie University, graduating Nov 2026   │
+│  🧩  Co-founder & lead builder — Syllabus Sync, student experience app   │
+│  🌐  Full-stack: Next.js, TypeScript, PostgreSQL, Supabase               │
+│  🤖  Applied ML: CNNs, transfer learning, Grad-CAM, Gradio demos         │
+│  📱  Mobile prototyping with Flutter — campus wayfinding & UX research   │
+│  🔐  Security-minded: auth/MFA, row-level security, rate limiting        │
+│  🌍  Multilingual UX, RTL layouts, WCAG-aligned accessibility            │
+│  🧪  CI/CD with GitHub Actions, Vitest, Playwright, deployed on Vercel   │
+│  🤝  Open to graduate, junior & early-career software roles              │
 └──────────────────────────────────────────────────────────────────────────┘
 ```
 
